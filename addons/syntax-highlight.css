@@ -3,17 +3,17 @@
   /* ---- Default Colors -- */
   --background: var(--background-secondary);
   --text-default: #a9b1d6;
-  --color-1: #f7768e;
-  --color-2: #ff9e64;
-  --color-3: #e0af68;
-  --color-4: #9ece6a;
-  --color-5: #73daca;
-  --color-6: #b4f9f8;
-  --color-7: #2ac3de;
-  --color-8: #7dcfff;
-  --color-9: #7aa2f7;
-  --color-10: #bb9af7;
-  --color-11: #c0caf5;
+  --color-1: #abb2bf;
+  --color-2: #818896;
+  --color-3: #5c6370;
+  --color-4: #56b6c2;
+  --color-5: #61aeee;
+  --color-6: #c678dd;
+  --color-7: #98c379;
+  --color-8: #e06c75;
+  --color-9: #be5046;
+  --color-10: #d19a66;
+  --color-11: #e6c07b;
   /* ---- HLJS Default -- */
   --hljs-attribute: var(--color-7);
   --hljs-nomarkup: var(--color-8);
