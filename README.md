@@ -1,6 +1,6 @@
 <h1 align="center">One Dark</h1>
 
-![](https://github.com/Dyzean/Tokyo-Night/blob/main/assets/preview.png?raw=true)
+![](./assets/preview.png)
 
 <p align="center">A clean, dark, Discord theme based on <a href="https://github.com/Binaryify/OneDark-Pro">One Dark</a> colorscheme.</p>
 
